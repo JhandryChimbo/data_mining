@@ -1,0 +1,63 @@
+levelType,code,catalogType,name,description,sourceLink
+CATEGORY,Street Lighting,PRODUCT,42,Category code for Street Lighting,http://lighttree.com/Street Lighting
+CATEGORY,Pedestrian Lighting,PRODUCT,29,Category code for Pedestrian Lighting,http://lighttree.com/Pedestrian Lighting
+CATEGORY,Traffic Signal Poles,PRODUCT,45,Category code for Traffic Signal Poles,http://lighttree.com/Traffic Signal Poles
+CATEGORY,Controls,PRODUCT,14,Category code for Controls,http://lighttree.com/Controls
+CATEGORY,Downlights,PRODUCT,15,Category code for Downlights,http://lighttree.com/Downlights
+CATEGORY,Retrofit Downlights,PRODUCT,33,Category code for Retrofit Downlights,http://lighttree.com/Retrofit Downlights
+CATEGORY,Ambient,PRODUCT,5,Category code for Ambient,http://lighttree.com/Ambient
+CATEGORY,Bulbs,PRODUCT,8,Category code for Bulbs,http://lighttree.com/Bulbs
+CATEGORY,Controllers,PRODUCT,13,Category code for Controllers,http://lighttree.com/Controllers
+CATEGORY,Enclosures,PRODUCT,16,Category code for Enclosures,http://lighttree.com/Enclosures
+CATEGORY,High Voltage Electrical,PRODUCT,21,Category code for High Voltage Electrical,http://lighttree.com/High Voltage Electrical
+CATEGORY,Lenses,PRODUCT,24,Category code for Lenses,http://lighttree.com/Lenses
+CATEGORY,Luminaire,PRODUCT,25,Category code for Luminaire,http://lighttree.com/Luminaire
+CATEGORY,Mechanicals,PRODUCT,26,Category code for Mechanicals,http://lighttree.com/Mechanicals
+CATEGORY,Primary Chassis,PRODUCT,30,Category code for Primary Chassis,http://lighttree.com/Primary Chassis
+CATEGORY,Primary Foundation,PRODUCT,31,Category code for Primary Foundation,http://lighttree.com/Primary Foundation
+CATEGORY,Secondary Chassis,PRODUCT,38,Category code for Secondary Chassis,http://lighttree.com/Secondary Chassis
+BRAND,Public Sector,PRODUCT,32,Brand code for Public Sector,http://lighttree.com/Public Sector
+BRAND,Commercial,PRODUCT,12,Brand code for Commercial,http://lighttree.com/Commercial
+FAMILY,Alliance,PRODUCT,2,Family code for Alliance,http://lighttree.com/Alliance
+FAMILY,Helm,PRODUCT,20,Family code for Helm,http://lighttree.com/Helm
+FAMILY,Flatbush Avenue,PRODUCT,17,Family code for Flatbush Avenue,http://lighttree.com/Flatbush Avenue
+FAMILY,Bishops Crook,PRODUCT,6,Family code for Bishops Crook,http://lighttree.com/Bishops Crook
+FAMILY,City Light,PRODUCT,10,Family code for City Light,http://lighttree.com/City Light
+FAMILY,LED Type E,PRODUCT,23,Family code for LED Type E,http://lighttree.com/LED Type E
+FAMILY,All,PRODUCT,1,Family code for All,http://lighttree.com/All
+FAMILY,Cobra Head,PRODUCT,11,Family code for Cobra Head,http://lighttree.com/Cobra Head
+FAMILY,Stad,PRODUCT,40,Family code for Stad,http://lighttree.com/Stad
+FAMILY,Fulton,PRODUCT,19,Family code for Fulton,http://lighttree.com/Fulton
+FAMILY,Flushing Meadows,PRODUCT,18,Family code for Flushing Meadows,http://lighttree.com/Flushing Meadows
+FAMILY,World’s Fair,PRODUCT,49,Family code for World’s Fair,http://lighttree.com/World’s Fair
+FAMILY,Round Top Head,PRODUCT,35,Family code for Round Top Head,http://lighttree.com/Round Top Head
+FAMILY,All,PRODUCT,1,Family code for All,http://lighttree.com/All
+FAMILY,Type M–2 Traffic Signal Pole,PRODUCT,47,Family code for Type M–2 Traffic Signal Pole,http://lighttree.com/Type M–2 Traffic Signal Pole
+FAMILY,Alliance Traffic Signal Pole,PRODUCT,3,Family code for Alliance Traffic Signal Pole,http://lighttree.com/Alliance Traffic Signal Pole
+FAMILY,All,PRODUCT,1,Family code for All,http://lighttree.com/All
+FAMILY,Ventura,PRODUCT,48,Family code for Ventura,http://lighttree.com/Ventura
+FAMILY,Northridge ,PRODUCT,28,Family code for Northridge ,http://lighttree.com/Northridge 
+FAMILY,Miramar ,PRODUCT,27,Family code for Miramar ,http://lighttree.com/Miramar 
+FAMILY,Tulare,PRODUCT,46,Family code for Tulare,http://lighttree.com/Tulare
+FAMILY,Alameda,PRODUCT,0,Family code for Alameda,http://lighttree.com/Alameda
+FAMILY,Alpine,PRODUCT,4,Family code for Alpine,http://lighttree.com/Alpine
+FAMILY,Imperial ,PRODUCT,22,Family code for Imperial ,http://lighttree.com/Imperial 
+FAMILY,Sunset ,PRODUCT,43,Family code for Sunset ,http://lighttree.com/Sunset 
+FAMILY,Riverside,PRODUCT,34,Family code for Riverside,http://lighttree.com/Riverside
+FAMILY,Buccaneer ,PRODUCT,7,Family code for Buccaneer ,http://lighttree.com/Buccaneer 
+FAMILY,Santa Cruz ,PRODUCT,37,Family code for Santa Cruz ,http://lighttree.com/Santa Cruz 
+FAMILY,Stinson ,PRODUCT,41,Family code for Stinson ,http://lighttree.com/Stinson 
+LINE,Rural,PRODUCT,36,Line code for Rural,http://lighttree.com/Rural
+LINE,City,PRODUCT,9,Line code for City,http://lighttree.com/City
+LINE,Special application,PRODUCT,39,Line code for Special application,http://lighttree.com/Special application
+LINE,Traffic,PRODUCT,44,Line code for Traffic,http://lighttree.com/Traffic
+CATEGORY,Bulbs,ITEM,8,Category code for Bulbs,http://lighttree.com/Bulbs
+CATEGORY,Controllers,ITEM,13,Category code for Controllers,http://lighttree.com/Controllers
+CATEGORY,Enclosures,ITEM,16,Category code for Enclosures,http://lighttree.com/Enclosures
+CATEGORY,High Voltage Electrical,ITEM,21,Category code for High Voltage Electrical,http://lighttree.com/High Voltage Electrical
+CATEGORY,Lenses,ITEM,24,Category code for Lenses,http://lighttree.com/Lenses
+CATEGORY,Luminaire,ITEM,25,Category code for Luminaire,http://lighttree.com/Luminaire
+CATEGORY,Mechanicals,ITEM,26,Category code for Mechanicals,http://lighttree.com/Mechanicals
+CATEGORY,Primary Chassis,ITEM,30,Category code for Primary Chassis,http://lighttree.com/Primary Chassis
+CATEGORY,Primary Foundation,ITEM,31,Category code for Primary Foundation,http://lighttree.com/Primary Foundation
+CATEGORY,Secondary Chassis,ITEM,38,Category code for Secondary Chassis,http://lighttree.com/Secondary Chassis
