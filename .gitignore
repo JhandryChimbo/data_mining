@@ -85,6 +85,7 @@ Desktop.ini
 .idea/
 
 # Data files
+*.csv
 *.tsv
 *.dat
 *.db
